@@ -1,0 +1,2 @@
+Scoring Endpoint Link: 
+https://us-south.ml.cloud.ibm.com/ml/v4/deployments/3b18f1c0-5923-4bcc-bf80-49ae05479621/predictions?version=2022-06-03
